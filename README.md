@@ -1,12 +1,12 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshop0%2Fshop0-web&project-name=shop0&repo-name=shop0&demo-title=Shop0%20Web&demo-description=An%20all-in-one%20starter%20kit%20for%20high-performance%20e-commerce%20sites.&demo-url=https%3A%2F%2Fdemo.vercel.store&demo-image=https%3A%2F%2Fbigcommerce-demo-asset-ksvtgfvnd.vercel.app%2Fbigcommerce.png&integration-ids=oac_MuWZiE4jtmQ2ejZQaQ7ncuDT,oac_9HSKtXld74NG0srzdxSiBGty&skippable-integrations=1&root-directory=site&build-command=cd%20..%20%26%26%20yarn%20build)
 
-<button style="padding:8px;background-color:#000;font-size:12px;color:white;border-radius:8px">部署到 Netlify</button>
+[部署到 Netlify](#)
 
-<button style="padding:8px;background-color:gray;font-size:12px;color:white;border-radius:8px">部署到 Amazon</button>
+[部署到 Amazon](#)
 
-<button style="padding:8px;background-color:blue;font-size:12px;color:white;border-radius:8px">部署到 腾讯云</button>
+[部署到 腾讯云](#)
 
-<button style="padding:8px;background-color:orange;font-size:12px;color:white;border-radius:8px">部署到 阿里云</button>
+[部署到 阿里云](#)
 
 # Next.js 电商前端模版
 
